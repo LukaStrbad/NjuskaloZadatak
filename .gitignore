@@ -1,0 +1,4 @@
+node_modules
+
+# This will contain user data, so it's ignored
+cypress/fixtures/user.json
